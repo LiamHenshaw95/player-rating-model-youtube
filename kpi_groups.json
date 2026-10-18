@@ -1,0 +1,135 @@
+{
+ "Packing: progressing the ball (passer or dribbler)": [
+  0,
+  1,
+  2,
+  29,
+  3,
+  4,
+  1399,
+  1400,
+  6,
+  74
+ ],
+ "Packing: receiving the ball": [
+  7,
+  8,
+  9,
+  10
+ ],
+ "Sideways and backwards play": [
+  15,
+  16,
+  17,
+  37
+ ],
+ "Ball losses": [
+  22,
+  20,
+  33,
+  21,
+  69,
+  49
+ ],
+ "Ball wins": [
+  27,
+  24,
+  25,
+  23,
+  36
+ ],
+ "Passing": [
+  90,
+  91,
+  1431,
+  1783
+ ],
+ "Touches and duels": [
+  92,
+  93,
+  94,
+  95,
+  96,
+  97
+ ],
+ "Pressing and second balls": [
+  1536,
+  1610,
+  1611
+ ],
+ "Carries and runs": [
+  1613,
+  1612
+ ],
+ "Shooting": [
+  28,
+  38,
+  100,
+  1515,
+  101,
+  1516,
+  1517,
+  1518,
+  1519,
+  1520,
+  82,
+  1401,
+  83
+ ],
+ "Chance creation": [
+  77,
+  1715,
+  1780,
+  1781,
+  1782,
+  1693,
+  1694
+ ],
+ "Goal threat (pxT): your team's threat": [
+  1404,
+  1405,
+  1406,
+  1407,
+  1408,
+  1409,
+  1410,
+  1411,
+  1412,
+  1531,
+  1532,
+  1533,
+  1633,
+  1634
+ ],
+ "Goal threat (pxT): the opponent's threat": [
+  1413,
+  1414,
+  1415,
+  1416,
+  1417,
+  1418,
+  1419,
+  1420,
+  1421
+ ],
+ "Goal threat (pxT): threat of conceding": [
+  1522,
+  1523,
+  1524,
+  1525,
+  1526,
+  1527,
+  1528,
+  1529,
+  1530,
+  1534,
+  1535,
+  1635,
+  1636
+ ],
+ "Discipline": [
+  47,
+  1637,
+  1638
+ ]
+}
